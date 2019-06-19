@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [Documentation](./docs/README.md)
 
-[LIVE DEMO](http://skyflix.surge[].sh/#/)
+[LIVE DEMO](http://skyflix.surge.sh/#/)
 
 ## Available Scripts
 
